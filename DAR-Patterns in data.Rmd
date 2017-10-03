@@ -30,6 +30,12 @@ Our Research Question is:
 
   >Who does more pushups, on average: a line player or a skill player?
 
+```{r}
+head(pushups)
+```
+### summary
+In the study, we focused on two types of position on a football team, (skills and line). To determine who does the most push ups, we figured out the weight of each player and also how many push-ups they could do within 2 minutes.
+
 
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
