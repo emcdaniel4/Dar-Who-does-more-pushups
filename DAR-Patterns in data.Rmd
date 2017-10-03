@@ -79,3 +79,7 @@ t.test(weight~position, data=pushups)
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
 
+Do you think the reason skilled players did more push ups because they had more skilled players than line players? As a result do you think this have a big affect? 
+
+In my overall result we came to a conclusion that skilled player did more push ups then lined players.The mean for skilled were 45.5 and the mean for lined 15.5.
+
