@@ -46,7 +46,7 @@ The techniques  I used for the methods was the varibale analysis. I used one gra
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
 
 ```{r}
-myex <- ggplot(pushups, aes(x=position, y=weight))
+myex <- ggplot(pushups, aes(x=position, y=pushups))
 myex + geom_boxplot()
 myex + geom_violin()
 ```
